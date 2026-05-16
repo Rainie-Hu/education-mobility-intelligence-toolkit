@@ -5,11 +5,15 @@ type: software
 authors:
   - family-names: Hu
     given-names: Yuqing
-    email: rainie.yu.qing97@gmail.com
+    email: yhu672@gatech.edu
+    orcid: "https://orcid.org/0009-0008-3071-473X"
   - family-names: Malla
     given-names: Bhanu Suraj
+    email: bmalla7@gatech.edu
+    orcid: "https://orcid.org/0009-0000-3593-2455"
+doi: "10.5281/zenodo.20247632"
 license: MIT
-repository-code: "https://github.com/YOUR_USERNAME/education-mobility-intelligence-toolkit"
+repository-code: "https://github.com/Rainie-Hu/education-mobility-intelligence-toolkit"
 abstract: >-
   A practical analytical toolkit that integrates and standardizes
   international education and credential-related datasets to support
@@ -20,4 +24,4 @@ keywords:
   - student mobility
   - data analytics
   - forecasting
-date-released: "2025-01-01"
+date-released: "2026-05-16"
