@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "International Education Mobility Intelligence Toolkit"
+type: software
+authors:
+  - family-names: Hu
+    given-names: Yuqing
+    email: rainie.yu.qing97@gmail.com
+  - family-names: Malla
+    given-names: Bhanu Suraj
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/education-mobility-intelligence-toolkit"
+abstract: >-
+  A practical analytical toolkit that integrates and standardizes
+  international education and credential-related datasets to support
+  mobility analysis, forecasting, and credential evaluation intelligence.
+keywords:
+  - international education
+  - credential evaluation
+  - student mobility
+  - data analytics
+  - forecasting
+date-released: "2025-01-01"
